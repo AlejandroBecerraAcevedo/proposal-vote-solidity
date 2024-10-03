@@ -72,3 +72,11 @@ Permite a una dirección de la whitelist votar por la propuesta en el índice 0.
 ### Ver Número de Propuestas
 getProposalsCount()
 Devuelve el número total de propuestas almacenadas en el contrato.
+
+
+Link de despliegue:
+
+https://sepolia.etherscan.io/tx/0xc8dff5f36b149868331ffb96ec35ec7b829fdeae625cd71e985fa2cc31581603
+
+
+
